@@ -1,4 +1,4 @@
-# Research Theme - "Permanent underwater observation in the field"
+# Theme - "Permanent underwater observation in the field"
 
 ## Keywords
 Python, Raspberry Pi, Cloud, Dropbox API, Motion Detection, AI, YOLO, SDGs
